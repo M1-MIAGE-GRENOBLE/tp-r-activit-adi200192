@@ -1,0 +1,5 @@
+server:
+  port: 2200
+
+client:
+  url: "http://localhost:8080"
